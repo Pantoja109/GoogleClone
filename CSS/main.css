@@ -34,3 +34,18 @@ nav .nav-right-section a{
     color: #000000;
 
 }
+
+nav .nav-right-section .menu-icon {
+    background-image: url('https://image.flaticon.com/icons/png/128/17/17704.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+}
+
+nav .nav-right-section img{
+    border-radius: 50%;
+    margin-left: 10px;
+
+}
